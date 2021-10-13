@@ -2,5 +2,8 @@ THE HIPSTER PROJECT
 by oRaNGe
 
 
-pwd1234567890
+pwde1234567890
 walletID 7qEZKuZGkPCn7pjqwHtn9YB8uf228JtsGi6MecB6kbay
+pubkey: FLSjatdtocVVe9vLrzXyeqaX7tC5HmyHhi5jHtwBo77i
+
+
